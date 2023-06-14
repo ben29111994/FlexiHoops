@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1a0b80c21a787ce48bb72d727ea34789
+timeCreated: 1513245785
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AgencyFB Black
+  fontNames:
+  - AgencyFB Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b1d6ded3052344c4794b5d8341e34259, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
